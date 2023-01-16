@@ -4,7 +4,9 @@ Courses from the main program in SoftUni
 
 Сертификат Basics with Java
 https://softuni.bg/certificates/certificates/converttoimage/131556?code=9993113e
+
 Сертификат Fundamentals with Java
 https://softuni.bg/certificates/certificates/converttoimage/138554?code=ed737b13се
+
 Сертификат Advanced witn Java
 https://softuni.bg/certificates/certificates/converttoimage/152242?code=d87c1b68
