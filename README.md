@@ -6,7 +6,7 @@ Courses from the main program in SoftUni
 https://softuni.bg/certificates/certificates/converttoimage/131556?code=9993113e
 
 Сертификат Fundamentals with Java
-https://softuni.bg/certificates/certificates/converttoimage/138554?code=ed737b13се
+https://softuni.bg/certificates/certificates/converttoimage/138554?code=ed737b13
 
 Сертификат Advanced witn Java
 https://softuni.bg/certificates/certificates/converttoimage/152242?code=d87c1b68
