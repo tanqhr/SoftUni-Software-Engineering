@@ -1,9 +1,8 @@
 package ArraysMoreExcersise;
 
 import java.util.Scanner;
-import java.util.Arrays;
 
-public class KaminoFactory {
+public class KaminoFactory_05 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int lengthOfSequences = Integer.parseInt(scanner.nextLine());
