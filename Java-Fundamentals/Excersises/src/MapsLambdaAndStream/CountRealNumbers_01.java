@@ -3,7 +3,7 @@ package Maps;
 import java.util.*;
 import java.util.stream.Collectors;
 
-public class Count_01 {
+public class CountRealNumbers_01 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

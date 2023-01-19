@@ -1,11 +1,10 @@
-package Maps;
+package MapsLambdaAndStream;
 
 import java.util.Scanner;
-import java.util.Arrays;
 
 import static java.util.Arrays.stream;
 
-public class WordsFilter {
+public class WordsFilter_04 {
     public static void main(String[] args) {
 
     Scanner scanner = new Scanner(System.in);
