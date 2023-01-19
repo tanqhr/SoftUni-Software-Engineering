@@ -1,7 +1,6 @@
-package MapsExcersises;
+package MapsLambdaAndStreamExcersises;
 
 import java.util.LinkedHashMap;
-import java.util.Locale;
 import java.util.Map;
 import java.util.Scanner;
 

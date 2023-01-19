@@ -1,9 +1,8 @@
-package MapsExcersises;
+package MapsLambdaAndStreamExcersises;
 
 import java.util.LinkedHashMap;
 import java.util.Map;
 import java.util.Scanner;
-import java.util.Set;
 
 public class CountCharsInString_01 {
     public static void main(String[] args) {

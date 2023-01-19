@@ -1,4 +1,4 @@
-package MapsExcersises;
+package MapsLambdaAndStreamExcersises;
 
 import java.util.LinkedHashMap;
 import java.util.Map;
