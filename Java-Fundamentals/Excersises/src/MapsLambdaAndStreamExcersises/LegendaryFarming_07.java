@@ -4,7 +4,7 @@ import java.util.LinkedHashMap;
 import java.util.Map;
 import java.util.Scanner;
 
-public class LegendaryFarming {
+public class LegendaryFarming_07 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

@@ -2,7 +2,7 @@ package MapsLambdaAndStreamExcersises;
 
 import java.util.*;
 
-public class CompanyUsers {
+public class CompanyUsers_08 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

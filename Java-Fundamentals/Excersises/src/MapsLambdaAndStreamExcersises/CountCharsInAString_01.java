@@ -4,7 +4,7 @@ import java.util.LinkedHashMap;
 import java.util.Map;
 import java.util.Scanner;
 
-public class CountCharsInString_01 {
+public class CountCharsInAString_01 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
