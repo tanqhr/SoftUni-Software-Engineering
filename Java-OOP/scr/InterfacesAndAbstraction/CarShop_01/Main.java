@@ -1,4 +1,4 @@
-package CarShop_01;
+package CarShopExtend_02;
 
 public class Main {
     public static void main(String[] args) {
