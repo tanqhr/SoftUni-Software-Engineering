@@ -1,4 +1,4 @@
-package MultipleImplementation_02;
+package BirthdayCelebrations_03;
 
 public interface Person {
     String getName();
