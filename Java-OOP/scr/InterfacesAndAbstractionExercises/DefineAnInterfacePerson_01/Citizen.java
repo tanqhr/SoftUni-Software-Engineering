@@ -1,4 +1,4 @@
-package DefineAnInterfacePerson;
+package MultipleImplementation_02;
 
 public class Citizen implements Person{
 
