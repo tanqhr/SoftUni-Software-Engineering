@@ -1,4 +1,4 @@
-package Vehicles_01;
+package VehiclesExtend_02;
 
 public interface Vehicle {
 

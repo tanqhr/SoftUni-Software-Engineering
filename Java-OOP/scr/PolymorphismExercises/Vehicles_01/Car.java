@@ -1,4 +1,4 @@
-package Vehicles_01;
+package VehiclesExtend_02;
 
 public class Car extends VehicleImpl {
     private static final double AC_ADDITIONAL_CONSUMPTION = 0.9;
